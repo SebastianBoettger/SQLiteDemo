@@ -1,0 +1,11 @@
+C:\Visual Studio 2022\Projekte\Demos\SQLiteDemo\bin\Debug\SQLiteDemo.exe
+C:\Visual Studio 2022\Projekte\Demos\SQLiteDemo\bin\Debug\SQLiteDemo.pdb
+C:\Visual Studio 2022\Projekte\Demos\SQLiteDemo\obj\Debug\SQLiteDemo.Properties.Resources.resources
+C:\Visual Studio 2022\Projekte\Demos\SQLiteDemo\obj\Debug\WinFormUI.csproj.GenerateResource.cache
+C:\Visual Studio 2022\Projekte\Demos\SQLiteDemo\obj\Debug\WinFormUI.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022\Projekte\Demos\SQLiteDemo\obj\Debug\SQLiteDemo.exe
+C:\Visual Studio 2022\Projekte\Demos\SQLiteDemo\obj\Debug\SQLiteDemo.pdb
+C:\Visual Studio 2022\Projekte\Demos\SQLiteDemo\bin\Debug\DemoDB.db
+C:\Visual Studio 2022\Projekte\Demos\SQLiteDemo\bin\Debug\SQLiteDemo.exe.config
+C:\Visual Studio 2022\Projekte\Demos\SQLiteDemo\obj\Debug\WinFormUI.csproj.AssemblyReference.cache
+C:\Visual Studio 2022\Projekte\Demos\SQLiteDemo\obj\Debug\SQLiteDemo.PeopleForm.resources
